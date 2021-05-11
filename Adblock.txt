@@ -11,6 +11,9 @@ room1.7cplay.com##DIV[id="zdd"]
 1mb.site##DIV[id="mb_banner"]
 www.dcard.tw##DIV[class="sc-1pe30hq-0 flSpsz"]
 www.dcard.tw##DIV[class="rlqnj2-0 ldFakp"]
+www.ubereats.com##DIV[class="bv"]
+www.facebook.com##A[aria-label="廣告主圖像連結"]
+
 !freebitco.in
 freebitco.in##DIV[class="alert-box"]
 freebitco.in##P[class="bold"]
