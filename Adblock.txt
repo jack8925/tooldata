@@ -13,6 +13,9 @@ www.dcard.tw##DIV[class="sc-1pe30hq-0 flSpsz"]
 www.dcard.tw##DIV[class="rlqnj2-0 ldFakp"]
 www.ubereats.com##DIV[class="bv"]
 www.facebook.com##A[aria-label="廣告主圖像連結"]
+feebee.com.tw##DIV[id="event_flybee_idle"]
+feebee.com.tw##DIV[id="event_flybee_banner"]
+feebee.com.tw##DIV[id="event_flybee_float"]
 
 !freebitco.in
 freebitco.in##DIV[class="alert-box"]
