@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 !game.streets.cafe
 game.streets.cafe##DIV[id="st-1"]
 game.streets.cafe##DIV[class="pull-right"]
