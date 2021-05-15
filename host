@@ -1,4 +1,4 @@
-# Update time 20210501 0534
+# Update time 20210515
 # Copyright (c) 1993-2009 Microsoft Corp.
 #
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
@@ -21,11 +21,11 @@
 #	127.0.0.1       localhost
 #	::1             localhost
 
-127.0.0.1   instrumentstrangeindustryever.live
-127.0.0.1   www.tw-goldenwinner-57.com
-127.0.0.1   vzvnjw.placetowin.net
-127.0.0.1   simcast.com     #aaa
-127.0.0.1   kq6.uft2bugay6.com     #aaa
-127.0.0.1   bnmjjwinf292.com
-127.0.0.1   www.cnokla.xyz
-127.0.0.1   igotojapan.com
+127.0.0.1   instrumentstrangeindustryever.live  #20210501
+127.0.0.1   www.tw-goldenwinner-57.com  #20210501
+127.0.0.1   vzvnjw.placetowin.net #20210501
+127.0.0.1   simcast.com           #20210501
+127.0.0.1   kq6.uft2bugay6.com    #20210501
+127.0.0.1   bnmjjwinf292.com      #20210501
+127.0.0.1   www.cnokla.xyz        #20210501
+127.0.0.1   igotojapan.com        #20210515
