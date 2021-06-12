@@ -5,6 +5,7 @@ www.dcard.tw##DIV[class="sc-1pe30hq-0 flSpsz"]
 www.dcard.tw##DIV[class="rlqnj2-0 ldFakp"]
 www.ubereats.com##DIV[class="bv"]
 google.com##A[href*="https://igotojapan.com/"]
+google.com##A[href*="https://easylife.tw/"]
 feebee.com.tw##DIV[id*="event_flybee_"]
 www.youtube.com##DIV[id="sponsor-button"]
 
