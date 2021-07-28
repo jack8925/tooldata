@@ -8,6 +8,12 @@ google.com##A[href*="https://igotojapan.com/"]
 google.com##A[href*="https://easylife.tw/"]
 feebee.com.tw##DIV[id*="event_flybee_"]
 www.youtube.com##DIV[id="sponsor-button"]
+feebee.com.tw##DIV[id*="event_flybee_"]
+feebee.com.tw##DIV[class="flybee-prompt__notice"]
+feebee.com.tw##DIV[class="flybee-prompt__wording"]
+feebee.com.tw##P[class="flybee-prompt__prize flybee-prompt__prize--activity"]
+feebee.com.tw##DIV[class="flybee-prompt__feature"]
+feebee.com.tw##IMG[class="flybee-prompt__install"]
 
 !facebook
 apps.facebook.com##DIV[id="rightCol"]
