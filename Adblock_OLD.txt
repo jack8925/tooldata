@@ -7,6 +7,9 @@ game.streets.cafe##DIV[class="col-md-12"]
 game.streets.cafe##FOOTER[class="page color-5"]
 game.streets.cafe##BR[clear="all"]
 game.streets.cafe##DIV[id="st-*"]
+
+1mb.site##DIV[id="mb_banner"]
+
 !freebitco.in
 freebitco.in##DIV[class="alert-box"]
 freebitco.in##P[class="bold"]
