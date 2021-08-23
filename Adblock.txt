@@ -17,6 +17,8 @@ feebee.com.tw##IMG[class="flybee-prompt__install"]
 
 www.twitch.tv##BUTTON[data-a-target="chat-badge"]
 www.twitch.tv##DIV[class="chat-line__message--emote-button"]
+www.twitch.tv##DIV[class="Layout-sc-nxg1ff-0 eoYCPE"]
+
 
 
 !facebook
