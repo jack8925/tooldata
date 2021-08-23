@@ -13,8 +13,11 @@ feebee.com.tw##DIV[class="flybee-prompt__notice"]
 feebee.com.tw##DIV[class="flybee-prompt__wording"]
 feebee.com.tw##P[class="flybee-prompt__prize flybee-prompt__prize--activity"]
 feebee.com.tw##DIV[class="flybee-prompt__feature"]
-www.twitch.tv##BUTTON[data-a-target="chat-badge"]
 feebee.com.tw##IMG[class="flybee-prompt__install"]
+
+www.twitch.tv##BUTTON[data-a-target="chat-badge"]
+www.twitch.tv##DIV[class="chat-line__message--emote-button"]
+
 
 !facebook
 apps.facebook.com##DIV[id="rightCol"]
