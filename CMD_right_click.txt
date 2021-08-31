@@ -11,3 +11,6 @@ windows+r -> regedit
 進階 -> 擁有者 變更(C)
 輸入"NT SERVICE\TrustedInstaller" -> 檢查名稱(C) -> 確定
 勾選"取代子容器與物件的擁有者" -> 確定 -> 確定
+
+-----------------------------------------------------
+windows build with 1909 & 20H2
