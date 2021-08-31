@@ -1,0 +1,13 @@
+windows+r -> regedit
+電腦\HKEY_CLASSES_ROOT\Directory\shell\cmd
+左邊CMD右鍵 -> 使用權限(P) -> 進階 -> 擁有者 變更(C)
+輸入<user> -> 檢查名稱(C) -> 確定
+勾選"取代子容器與物件的擁有者" -> 確定
+選取Administrator -> 勾選允許完全控制 -> 確定
+將右側的 "HideBasedOnVelocityId" 重新命名為 "ShowBasedOnVelocityId"
+
+左邊CMD右鍵 -> 使用權限(P)
+選取Administrator -> 取消勾選允許完全控制 -> 套用
+進階 -> 擁有者 變更(C)
+輸入"NT SERVICE\TrustedInstaller" -> 檢查名稱(C) -> 確定
+勾選"取代子容器與物件的擁有者" -> 確定 -> 確定
