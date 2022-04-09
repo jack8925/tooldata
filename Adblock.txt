@@ -22,6 +22,15 @@ www.twitch.tv##IMG[class="chat-image chat-line__message--emote"]
 stackoverflow.com##DIV[class="ff-sans ps-fixed z-nav-fixed ws4 sm:w-auto p32 sm:p16 bg-black-750 fc-white bar-lg b16 l16 r16 js-consent-banner"]
 stackoverflow.com##DIV[class="bg-black-025 bs-sm bt bc-black-100 ps-fixed l0 r0 b0 z-nav js-dismissable-hero"]
 
+@@||store.playstation.com/*^$document
+ecvip.pchome.com.tw##DD[class="head"]
+ecvip.pchome.com.tw##DL[class="msg_box"]
+ecvip.pchome.com.tw##UL[class="list_box"]
+ecvip.pchome.com.tw##DIV[class="site_evt"]
+ecvip.pchome.com.tw##OL
+jack8925.1mb.site##A[href="https://1mb.co/"]
+www.twitch.tv##IMG[class="chat-image chat-line__message--emote"]
+
 
 
 !facebook
