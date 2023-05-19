@@ -60,3 +60,17 @@ www.facebook.com##A[href*="http://shopee.tw/"]
 www.facebook.com##A[href*="https://ad2.trafficgate.net"]
 www.facebook.com##A[href*="https://feistores.com"]
 www.facebook.com##A[href*="https://mobilehero.com"]
+
+!PTT
+www.ptt.cc##A[href="https://i.imgur.com/5Cdc6gN.jpg"]
+www.ptt.cc##IMG[src="https://cache.ptt.cc/c/https/i.imgur.com/5Cdc6gNl.jpg?e=1684611412&s=kQ5HBnue_ompABxYoyYX1A"]
+www.ptt.cc##A[href="https://i.imgur.com/VDZ4WeL.jpg"]
+www.ptt.cc##IMG[src="https://cache.ptt.cc/c/https/i.imgur.com/VDZ4WeLl.jpg?e=1684619640&s=Wv7dkZq-KvRxc97SdPVVvg"]
+www.ptt.cc##A[href="https://i.imgur.com/v7P2VO7.jpg"]
+www.ptt.cc##IMG[src="https://cache.ptt.cc/c/https/i.imgur.com/v7P2VO7l.jpg?e=1684610355&s=CiNO6-kA9_8vmgQ-r9i_1g"]
+
+
+
+
+
+
