@@ -71,6 +71,7 @@ www.facebook.com##A[href*="https://feistores.com"]
 www.facebook.com##A[href*="https://mobilehero.com"]
 
 !PTT
+www.ptt.cc##A[href="https://i.imgur.com/vLRcZ0p.jpg"]
 www.ptt.cc##A[href="https://i.imgur.com/5Cdc6gN.jpg"]
 www.ptt.cc##IMG[src^="https://cache.ptt.cc/c/https/i.imgur.com/5Cdc6gNl.jpg"]
 www.ptt.cc##A[href="https://i.imgur.com/v7P2VO7.jpg"]
