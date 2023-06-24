@@ -72,11 +72,12 @@ www.facebook.com##A[href*="https://mobilehero.com"]
 
 !PTT
 www.ptt.cc##A[href="https://i.imgur.com/5Cdc6gN.jpg"]
-www.ptt.cc##IMG[src="https://cache.ptt.cc/c/https/i.imgur.com/5Cdc6gNl.jpg"]
-www.ptt.cc##A[href="https://i.imgur.com/VDZ4WeL.jpg"]
-www.ptt.cc##IMG[src="https://cache.ptt.cc/c/https/i.imgur.com/VDZ4WeLl.jpg"]
+www.ptt.cc##IMG[src^="https://cache.ptt.cc/c/https/i.imgur.com/5Cdc6gNl.jpg"]
 www.ptt.cc##A[href="https://i.imgur.com/v7P2VO7.jpg"]
-www.ptt.cc##IMG[src="https://cache.ptt.cc/c/https/i.imgur.com/v7P2VO7l.jpg"]
+www.ptt.cc##IMG[src^="https://cache.ptt.cc/c/https/i.imgur.com/v7P2VO7l.jpg"]
+www.ptt.cc##A[href="https://i.imgur.com/v7P2VO7.jpg"]
+www.ptt.cc##IMG[src^="https://cache.ptt.cc/c/https/i.imgur.com/VDZ4WeLl.jpg"]
+
 
 
 
