@@ -78,12 +78,52 @@ www.ptt.cc##A[href="https://i.imgur.com/v7P2VO7.jpg"]
 www.ptt.cc##IMG[src^="https://cache.ptt.cc/c/https/i.imgur.com/v7P2VO7l.jpg"]
 www.ptt.cc##A[href="https://i.imgur.com/VDZ4WeL.jpg"]
 www.ptt.cc##IMG[src^="https://cache.ptt.cc/c/https/i.imgur.com/VDZ4WeLl.jpg"]
+term.ptt.cc##A[href="https://i.imgur.com/vLRcZ0p.jpg"]
+term.ptt.cc##A[href="https://i.imgur.com/5Cdc6gN.jpg"]
+term.ptt.cc##A[href="https://i.imgur.com/v7P2VO7.jpg"]
+term.ptt.cc##A[href="https://i.imgur.com/VDZ4WeL.jpg"]
 
+
+www.twitch.tv##DIV[class="Layout-sc-1xcs6mc-0 iqIerE front-page-carousel"]
+
+maplestory.fandom.com##DIV[class="ad-slot-placeholder bottom-leaderboard"]
+maplestory.fandom.com##DIV[class="top-ads-container"]
+maplestory.fandom.com##DIV[id="rail-boxad-wrapper"]
 
 term.ptt.cc##A[href="https://i.imgur.com/vLRcZ0p.jpg"]
 term.ptt.cc##A[href="https://i.imgur.com/5Cdc6gN.jpg"]
 term.ptt.cc##A[href="https://i.imgur.com/v7P2VO7.jpg"]
 term.ptt.cc##A[href="https://i.imgur.com/VDZ4WeL.jpg"]
+
+www.bilibili.com##DIV[class="vcd"]
+www.bilibili.com##img[class="emoji yt-formatted-string style-scope yt-live-chat-text-message-renderer" ]
+
+www.op.gg##DIV[class="vm-placement"]
+www.op.gg##DIV[id="primis_container_div"]
+www.op.gg##DIV[id="div-gpt-ad-1642779412689-0"]
+www.op.gg##DIV[id="div-gpt-ad-1645776360817-0"]
+www.op.gg##DIV[id="div-gpt-ad-1675834170356-0"]
+
+www.iyf.tv##DIV[class="ps pggd"]
+www.iyf.tv##DIV[class="w-100 h-100 ng-star-inserted"]
+
+goodinfo.tw##DIV[id="DFP_4467612876"]
+goodinfo.tw##DIV[id="DFP_8600504568"]
+goodinfo.tw##DIV[id="DFP_4236926568"]
+
+aternos.org##DIV[class="vm-skin vm-skin-left"]
+aternos.org##DIV[class="header-center"]
+aternos.org##DIV[id="placement-takeover"]
+aternos.org##DIV[class="vm-footer"]
+aternos.org##DIV[class="vm-skin vm-skin-right"]
+aternos.org##DIV[class="responsive-leaderboard mobile-full-width ad-dfp"]
+aternos.org##DIV[class="responsive-sky-scraper"]
+
+minecraft.fandom.com##DIV[id="top_leaderboard"]
+minecraft.fandom.com##DIV[class="ad-slot-placeholder incontent-leaderboard"]
+minecraft.fandom.com##DIV[class="gpt-ad"]
+minecraft.fandom.com##DIV[class="top-ads-container"]
+minecraft.fandom.com##ASIDE[class="page__right-rail"]
 
 
 
