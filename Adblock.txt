@@ -148,8 +148,8 @@ tw.beanfun.com##DIV[id="fbOverlay"]
 www.ofiii.com##A[class="jsx-3171969545 random_icon"][href="/service/copyright"]
 www.ofiii.com##DIV[class="jsx-126687236 banner_promote_section"]
 
-home.gamer.com.tw##DIV[id="BH-bigbanner"]
-home.gamer.com.tw##DIV[id="flySalve"]
+||gamer.com.tw##DIV[id="BH-bigbanner"]
+||gamer.com.tw##DIV[id="flySalve"]
 
 reurl.cc##DIV[id="renews"]
 
