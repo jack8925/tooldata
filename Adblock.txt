@@ -44,7 +44,7 @@ ecvip.pchome.com.tw##UL[class="list_box"]
 
 
 !facebook
-apps.facebook.com##DIV[class="x1n2onr6"]
+apps.facebook.com##DIV[class="x1n2onr6"]  !右上角
 
 
 !PTT
