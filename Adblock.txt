@@ -1,13 +1,22 @@
 [Adblock Plus 2.0]
-room1.7cplay.com##DIV[id="zdd"]
+
 www.dcard.tw##DIV[class="rlqnj2-0 ldFakp"]
 www.dcard.tw##DIV[class="sc-1pe30hq-0 flSpsz"]
+www.dcard.tw##DIV[class="d_dr_4nwicq f5t4ytj"]
 
+www.google.com##DIV[aria-label="廣告"]
 google.com##A[href*="https://easylife.tw/"]
 google.com##A[href*="https://igotojapan.com/"]
 
 www.youtube.com##DIV[id="sponsor-button"]
+www.youtube.com##DIV[id="masthead-ad"]
+www.youtube.com##DIV[id="player-ads"]
+www.youtube.com##DIV[class="style-scope ytd-ad-slot-renderer"]
+www.youtube.com##DIV[class="style-scope ytd-display-ad-renderer"]
 www.youtube.com##ytd-popup-container[class="style-scope ytd-app"]
+
+www.bilibili.com##DIV[class="slide-gg"]
+www.bilibili.com##DIV[class="inside-wrp"]
 
 feebee.com.tw##DIV[class="flybee-prompt__feature"]
 feebee.com.tw##DIV[class="flybee-prompt__notice"]
@@ -25,12 +34,13 @@ stackoverflow.com##DIV[class="bg-black-025 bs-sm bt bc-black-100 ps-fixed l0 r0 
 stackoverflow.com##DIV[class="ff-sans ps-fixed z-nav-fixed ws4 sm:w-auto p32 sm:p16 bg-black-750 fc-white bar-lg b16 l16 r16 js-consent-banner"]
 
 news.tvbs.com.tw##DIV[class="ad_pc"]
-news.tvbs.com.tw##DIV[class="article_ad truvid"]
 news.tvbs.com.tw##DIV[class="article_community_box"]
 news.tvbs.com.tw##DIV[class="nolazydiv"]
-news.tvbs.com.tw##DIV[class="share"]
 news.tvbs.com.tw##DIV[class="time_limit"]
 news.tvbs.com.tw##DIV[class="top_icon"]
+news.tvbs.com.tw##DIV[class="article_ad truvid"]
+news.tvbs.com.tw##DIV[class="time_limit"]
+news.tvbs.com.tw##DIV[class="share"]
 
 udn.com##DIV[class="udn-ads"]
 udn.com##DIV[id="ads-billboard"]
@@ -116,7 +126,6 @@ www.leagueofgraphs.com##DIV[id="leftStaticSlot"]
 blitz.gg##DIV[class="aside-content-column ⚡146dff8f left-col"]
 blitz.gg##DIV[class="aside-content-column ⚡146dff8f"]
 
-
 tw.beanfun.com##DIV[id="div-gpt-ad-1400484193000-0"]
 tw.beanfun.com##DIV[id="fbBox"]
 tw.beanfun.com##DIV[id="fbOverlay"]
@@ -128,8 +137,18 @@ gamer.com.tw##DIV[id="BH-bigbanner"]
 gamer.com.tw##DIV[id="flySalve"]
 gamer.com.tw##DIV[class="forum-ad_top"]
 
+tw.piliapp.com##DIV[id^="dfp-"]
+tw.piliapp.com##INS[id^="gpt_unit_"]
+tw.piliapp.com##IFRAME[name="googlefcLoaded"]
+tw.piliapp.com##DIV[id="ads-slots"]
+
+biggo.com.tw##DIV[class="page_image__eu_Nl"]
+biggo.com.tw##A[class="page_install__5_4eR"]
+
+gimy.ai##DIV[class="dabox2"]
+techraptor.net##DIV[class="mv-ad-box"]
 reurl.cc##DIV[id="renews"]
-
+imgur.com##DIV[class="BannerAd-cont"]
 www.ubereats.com##DIV[class="bv"]
-
+anime1.me##DIV[id^="ad-"]
 jack8925.1mb.site##A[href="https://1mb.co/"]
