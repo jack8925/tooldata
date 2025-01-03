@@ -8,8 +8,6 @@ game.streets.cafe##FOOTER[class="page color-5"]
 game.streets.cafe##BR[clear="all"]
 game.streets.cafe##DIV[id="st-*"]
 
-1mb.site##DIV[id="mb_banner"]
-
 !freebitco.in
 freebitco.in##DIV[class="alert-box"]
 freebitco.in##P[class="bold"]
@@ -46,3 +44,6 @@ www.facebook.com##DIV[data-ad-comet-preview="message"]
 www.facebook.com##IMG[src*="https://scontent.fkhh1-1.fna.fbcdn.net/v/t45.1600-4/"]
 www.facebook.com##IMG[src*="https://scontent.fkhh1-1.fna.fbcdn.net/v/t45.5328-4/"]
 www.facebook.com##IMG[src*="https://scontent.fkhh1-2.fna.fbcdn.net/v/t45.1600-4/"]
+
+1mb.site##DIV[id="mb_banner"]
+room1.7cplay.com##DIV[id="zdd"]
